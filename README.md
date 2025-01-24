@@ -15,4 +15,4 @@ Ready:
 
 ## Auth: 
 - https://portfolio-kaicitys-projects.vercel.app
-- Phan Thành Công
+- Nguyễn Minh Thông
